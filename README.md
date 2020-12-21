@@ -10,6 +10,6 @@
 
 ## Multi-label Classification of Image Data
 - Tool: PyTorch 
-- Implement a deep neural network model for the [modified MNIST](https://drive.google.com/file/d/1LcKqf1d7bctw5lx0YZf31kCUF0zEYOsi/view) task
+- Develop a deep neural network model for the [modified MNIST](https://drive.google.com/file/d/1LcKqf1d7bctw5lx0YZf31kCUF0zEYOsi/view) task
 - Model used: Resnet 18, Resnet 34, and MobileNet 
 - Apply voting ensenble method 
